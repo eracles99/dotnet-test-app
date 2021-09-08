@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-// Principal Program jaja
+// Principal Program jaja xd
 namespace SimpleCalc
 {
     public class Program
